@@ -26,11 +26,11 @@ This project is a **4-page interactive Power BI dashboard** built on e-commerce 
 
 | Page 1: Executive Summary | Page 2: Product Performance |
 |---|---|
-| ![Page 1](images/page1_executive_summary.png) | ![Page 2](images/page2_product_performance.png) |
+| ![Page 1](https://github.com/taha5847/E-Commerce-Sales-Performance-Dashboard/blob/1b612c42f05c1de2613c585b80c122c2d46da62b/Ecommerce%20%26%20Sales.pdf) | ![Page 2]([images/page2_product_performance.png](https://github.com/taha5847/E-Commerce-Sales-Performance-Dashboard/blob/1b612c42f05c1de2613c585b80c122c2d46da62b/Ecommerce%20%26%20Sales.pdf)) |
 
 | Page 3: Fulfillment & Returns | Page 4: Marketing & Payments |
 |---|---|
-| ![Page 3](images/page3_fulfillment_returns.png) | ![Page 4](images/page4_marketing_payments.png) |
+| ![Page 3]([images/page3_fulfillment_returns.png](https://github.com/taha5847/E-Commerce-Sales-Performance-Dashboard/blob/1b612c42f05c1de2613c585b80c122c2d46da62b/Ecommerce%20%26%20Sales.pdf)) | ![Page 4]([images/page4_marketing_payments.png](https://github.com/taha5847/E-Commerce-Sales-Performance-Dashboard/blob/1b612c42f05c1de2613c585b80c122c2d46da62b/Ecommerce%20%26%20Sales.pdf)) |
 
 ## 🧭 Dashboard Pages
 
